@@ -23,7 +23,7 @@ print('b')
 ## 自分で調べたこと
 
 HTTP/1.1とHTTP/2の違いについて調べてみた  
-　参考　（https://www.kagoya.jp/howto/webhomepage/http-2/）  
+　参考　<https://www.kagoya.jp/howto/webhomepage/http-2/>  
 
 ## HTTPメッセージ (kd.txt) のうち、最も重要だと思う部分を貼り付けてください
 
